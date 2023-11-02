@@ -1,4 +1,5 @@
-import './style.css'
+import { NextPage } from 'next'
+import styled from 'styled-components'
 
 type ButtonProps = {
   label: String

@@ -1,2 +1,2 @@
 ## hi? Next 
-Next 맛보기
+- Next 맛보기
